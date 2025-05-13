@@ -35,7 +35,7 @@ mahasiswa :: mahasiswa(int iNim, string iNama){
 void mahasiswa::cetak(){
 
     cout << endl << "Nim = " << nim << endl;
-    cout << "Nama = " << nama end;
+    cout << "Nama = " << nama << endl;
 }
 
 int main(){
