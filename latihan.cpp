@@ -23,6 +23,8 @@ barang::barang(int kodeBarang, string namaBarang) {
 
 int main() {
     // Memanggil constructor dengan parameter
-    barang brg(5748699, "Laptop");
+    barang brg1(5748699, "Laptop");
+     barang brg2(537939, "PC");
+      barang brg3(574842, "Tablet");
     return 0;
 }
